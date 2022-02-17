@@ -1,3 +1,8 @@
+function test() {
+    console.log(sowmya);
+    var sowmya = "12345678"
+}
+
 
 $(document).ready(function () {
 
